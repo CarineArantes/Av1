@@ -1,0 +1,15 @@
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/bin/Debug/net7.0/Av1_v1.0.0
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/bin/Debug/net7.0/Av1_v1.0.0.deps.json
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/bin/Debug/net7.0/Av1_v1.0.0.runtimeconfig.json
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/bin/Debug/net7.0/Av1_v1.0.0.dll
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/bin/Debug/net7.0/Av1_v1.0.0.pdb
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/obj/Debug/net7.0/Av1_v1.0.0.csproj.AssemblyReference.cache
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/obj/Debug/net7.0/Av1_v1.0.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/obj/Debug/net7.0/Av1_v1.0.0.AssemblyInfoInputs.cache
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/obj/Debug/net7.0/Av1_v1.0.0.AssemblyInfo.cs
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/obj/Debug/net7.0/Av1_v1.0.0.csproj.CoreCompileInputs.cache
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/obj/Debug/net7.0/Av1_v1.0.0.dll
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/obj/Debug/net7.0/refint/Av1_v1.0.0.dll
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/obj/Debug/net7.0/Av1_v1.0.0.pdb
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/obj/Debug/net7.0/Av1_v1.0.0.genruntimeconfig.cache
+/Users/pedroantoniojustinoalmeida/Projects/Av1_v1.0.0/Av1_v1.0.0/obj/Debug/net7.0/ref/Av1_v1.0.0.dll
